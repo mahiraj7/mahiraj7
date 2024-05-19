@@ -43,7 +43,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/mahirajsb/), where I s
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## How to Reach Me:
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirajsinghbaghela@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahirajsb/)
 
 
