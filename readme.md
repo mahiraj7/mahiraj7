@@ -1,5 +1,5 @@
 ## About Me:
-I'm a passionate data science student with a knack for predictive analytics. I'm sharpening my skills in classical machine learning and honing my expertise.
+I'm a passionate data science student with a knack for predictive analytics. I'm sharpening my skills in classical machine learning and learning everyday.
 
 
 ## Social media:
